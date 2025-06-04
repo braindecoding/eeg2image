@@ -8,8 +8,8 @@ Didalam folder trainingSample terdapat folder yang nama folder tersebut adalah l
 
 ## Data folder
 
-Di dalam folder Data berisi MindBigData The "MNIST" of Brain Digits.
-
+Di dalam folder Data berisi MindBigData The "MNIST" of Brain Digits dari alat Emotiv EPOC (EP). 
+Detail deskripsi web sebagai berikut:
 The version 1.03 of the open database contains 1,207,293 brain signals of 2 seconds each, captured with the stimulus of seeing  a digit (from 0 to 9) and thinking about it, over the course of almost 2 years between 2014 & 2015, from a single Test Subject David Vivancos. In 2018 we started sharing also a new open dataset "IMAGENET" of The Brain, and in 2021 we started The Visual "MNIST" of Brain Digits. with real individual MNIST digits shown , and don't miss MindBigData2023 MNIST-8B the new 8 billion datapoints multimodal dataset
 
 Update December 2023: Check the new Hugging Face Leaderboard of Models
