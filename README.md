@@ -1,6 +1,8 @@
 # eeg2image
-eeg to image reconstruction
-
+eeg to image reconstruction. Data preparasi:
+1. Dataset Data yang berlabel code, di satukan atau di cocokkan dengan nama folder di folder trainingSample, sehingga yang tadinya klasifikasi digit mnist (atribut code) berubah menjadi rekonstruksi citra MNIST yang dilihat oleh objek.
+2. Data test dan training dipisah. Menggunakan metode deep learning kekinian untuk membuat model. Bisa model generatif/inferensi/lainnya.
+3. Inputan berupa sinyal EEG, outputan berupa citra gambar.
 
 ## trainingSample Data
 
